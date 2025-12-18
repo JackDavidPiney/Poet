@@ -1,4 +1,4 @@
-# Poet Strategy Analyzer
+# Poet Quantitative Research Infrastructure
 
 A Python-based analytical tool for evaluating algorithmic trading strategies. This tool processes trade logs, calculates advanced performance metrics (Sharpe, Sortino, CAGR), and generates comprehensive Excel and PDF factsheets.
 
@@ -7,6 +7,7 @@ A Python-based analytical tool for evaluating algorithmic trading strategies. Th
 - **Performance Metrics:** Calculates CAGR, Sharpe Ratio, Sortino Ratio, Max Drawdown, and more.
 - **Visual Reporting:** Generates equity curves, drawdown charts, and monthly return heatmaps.
 - **Benchmark Comparison:** Downloads SPY data via `yfinance` to compare strategy performance against the market.
+- **Results:** PDF and Excel dashboards will be generated in the output/ directory.
 
 ## Setup
 
@@ -21,7 +22,5 @@ Files should contain standard trade log columns (e.g., 'Type', 'Date/Time', 'Net
 
 ## Usage
 Run the main script:
-    ```bash
-    python poetv1.py
-
-Results (PDF and Excel dashboards) will be generated in the output/ directory.
+   ```bash
+   python poetv1.py
