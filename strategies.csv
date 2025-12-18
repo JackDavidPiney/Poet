@@ -1,0 +1,2 @@
+Report_ID,Filename,Allocated_Capital,Start_Date,Risk_Free_Rate,Title,Subtitle
+Test_Portfolio,tradeList.csv,100000,2020-01-01,0.0,ArchDAP,Test Portfolio

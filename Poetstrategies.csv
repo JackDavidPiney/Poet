@@ -1,0 +1,4 @@
+﻿Report_ID,Filename,Allocated_Capital,Start_Date,Risk_Free_Rate,Title,Subtitle
+Dynamic-ES-ETH,v15_Aggressive.csv,15000,,0,ArchDAP Dynamic ES+ETH,ES Aggressive
+Dynamic-ES-ETH,v153_Conservative.csv,60000,,0,ArchDAP Dynamic ES+ETH,ES Conservative
+Dynamic-ES-ETH,55232051-m15-eth-tradelist.csv,25000,26/06/2016,0,ArchDAP Dynamic ES+ETH,ETH Trend
